@@ -2,7 +2,7 @@
 
 ResearchinQuest is a user friendly pdf research tool that helps you search your desired queries inside the pdf you load.
 
-![](2.jpeg)
+![](3.jpeg)
 
 ## Features
 
