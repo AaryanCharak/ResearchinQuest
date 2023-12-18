@@ -2,7 +2,7 @@
 
 ResearchinQuest is a user friendly pdf research tool that helps you search your desired queries inside the pdf you load.
 
-
+![](2.jpeg)
 
 ## Features
 
@@ -16,6 +16,7 @@ ResearchinQuest is a user friendly pdf research tool that helps you search your 
 - Kindly download the LAMini-T5-738M model from official huggingface's website and include it in you local repository to use this LLM offline and free of cost.
   ```bash
   https://huggingface.co/MBZUAI/LaMini-T5-738M
+
 
 
 
