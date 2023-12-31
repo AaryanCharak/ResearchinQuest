@@ -44,13 +44,6 @@ def process_answer(instruction):
     qa = qa_llm()
     generated_text = qa(instruction)
     answer = generated_text['result']
-    # metadata = generated_text['metadata']
-    # for text in generated_text:
-        
-    #     print(answer)
-
-    # wrapped_text = textwrap.fill(response, 100)
-    # return wrapped_text
     return answer,generated_text
 
 def main():
